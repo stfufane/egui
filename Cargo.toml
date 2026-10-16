@@ -30,7 +30,7 @@ egui35 = { version = "0.35", package = "egui", default-features = false, optiona
 egui36 = { version = "0.36", package = "egui", default-features = false, optional = true }
 
 [dev-dependencies]
-eframe = "0.26"
+eframe = "0.37"
 
 [features]
 default = ["egui36"]
